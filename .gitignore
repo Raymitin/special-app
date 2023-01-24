@@ -1,0 +1,4 @@
+php/*.php
+!php/imperio.php
+logs/*.log
+!logs/sample.log
